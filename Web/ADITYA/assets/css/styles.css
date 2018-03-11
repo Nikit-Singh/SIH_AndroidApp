@@ -1,0 +1,78 @@
+#promotional{
+  text-align:center;
+  padding:40px;
+  background-image:url(../../assets/img/bg1.png);
+  background-size:cover;
+}
+
+@media (max-width:767px) {
+  #promotional{
+    padding:20px;
+  }
+}
+
+#promotional .jumbotron{
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.50);
+  max-width:800px;
+  margin:auto;
+}
+
+@media (max-width:767px) {
+  #promotional .jumbotron{
+    padding:20px;
+  }
+}
+
+column{
+  font:helvetica;
+}
+
+#column{
+  font-family:helvetica;
+}
+
+#icondesign{
+}
+
+i.material-icons.icondesign{
+}
+
+div.col-md-4.item{
+}
+
+i.material-icons{
+  font-size:50px;
+  margin-left:40%;
+  margin-top:10%;
+}
+
+h2.text-center{
+  font-weight:800;
+  font-family:'keep calm';
+  font-padding:20px;
+}
+
+img{
+  height:50px;
+  width:50px;
+  align-items:center;
+}
+
+div{
+  border-left-width:40%;
+}
+
+i.glyphicon.glyphicon-ok{
+  font-size:50px;
+  margin-left:40%;
+  margin-top:10%;
+}
+
+i.glyphicon.glyphicon-education{
+  font-size:50px;
+  margin-left:40%;
+  margin-top:10%;
+}
+
